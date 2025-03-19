@@ -122,5 +122,11 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **NHL API** is used to provide real-time game data.
 - **Scikit-learn** for the machine learning pipeline.
 
+## Screenshots
 
+### Streamlit App Example
+![Streamlit App](Images/Streamlit_ScreenShot)
+
+### Flask + Frontend Example
+![Flask + Frontend](Images/Frontend_Screenshot.png)
 
