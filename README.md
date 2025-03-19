@@ -125,7 +125,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Screenshots
 
 ### Streamlit App Example
-![Streamlit App](Images/Streamlit_ScreenShot)
+![Streamlit App](Images/Streamlit_ScreenShot.png)
 
 ### Flask + Frontend Example
 ![Flask + Frontend](Images/Frontend_Screenshot.png)
